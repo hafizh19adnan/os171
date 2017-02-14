@@ -20,3 +20,4 @@ drwxr-xr-x  2 hafizh.rafizal StafCS 4096 Feb 14 10:24 week09
 drwxr-xr-x  2 hafizh.rafizal StafCS 4096 Feb 14 10:25 week10
 drwxr-xr-x  2 hafizh.rafizal StafCS 4096 Feb 14 10:26 xtra
 /home/fasilkom/mahasiswa/h/hafizh.rafizal/os171/week01
+Today is 14 Feb 2017 at 10:53:00
