@@ -1,2 +1,5 @@
 w01-170214-10-PS-Doing assignment for this week. Intro to scripting and git.
 w01-170214-10-PS-Doing assignment for this week. Intro to scripting and git.
+w01-200214-14-PS-Doing assignment for this week. Intro to C and Encription Tutorial.
+w01-200214-14-PS-Doing assignment for this week. Intro to C and Encription Tutorial.
+w01-200214-15-PS-Doing assignment for this week. Intro to C and Encription Tutorial.
